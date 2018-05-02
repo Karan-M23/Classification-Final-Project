@@ -1,0 +1,2 @@
+# Classification-Final-Project
+Using the Tawianese Credit Card data set from the University of California Irvine Machine Learning Repository. We ran multiple Machine Learning Methods to determine which was most accurate in this classfication problem. Utilizing the caret package in R we were able to use accuracy rates along with Reciever Operator Curves (ROC) to determine that a feed-forward Neural Network performed the best amongst its peers. 
